@@ -1,0 +1,12 @@
+// Example MiniLang code
+int x = 10
+bool j = true
+if x != 10
+{
+    x = 1 + 2
+}
+else
+{
+    j = false
+}
+
